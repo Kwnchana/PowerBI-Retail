@@ -24,18 +24,18 @@ This repository contains a Power BI dashboard that provides insightful analysis 
 ---
 
 ## Files Included
-1. **`Sales_Dashboard.pbix`**  
+1. **'Online retail.pbix`**  
    - The Power BI report file containing all visuals, data model, and calculations.
 
-2. **`Sales_Data.csv`**  
+2. **`Online Retail.xlsx`**  
    - The dataset used for creating the dashboard.
 
 3. **`README.md`**  
    - Documentation about the project.
 
 4. **Screenshots**  
-   - `dashboard_overview.png`: A snapshot of the full dashboard.  
-   - `top_products.png`: A visual showing top-performing products.
+   - `overview.png`: A snapshot of the full dashboard.  
+   - `Product_demand.png`: A visual showing product demand by country.
 
 ---
 
